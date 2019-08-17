@@ -15,7 +15,7 @@ int main( void ) {
     return 0;
 }
 
-/* Optimized version of the same function below, oh shit, i figured it out! ;) */
+/* Optimized version of the same function below, i figured it out! ;) */
 uint64_t rowSumOddNumbers_o(uint32_t n)
 {
     /* Return the calculated result */
